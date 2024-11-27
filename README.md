@@ -14,3 +14,7 @@
 低阈值下：  
 ![mask](https://github.com/user-attachments/assets/13ee7c1a-853c-41e9-a05a-820284c9c732)  
 反正就是别想只选中水印！欸嘿（  
+
+ChatGPT：  
+<img width="868" alt="image" src="https://github.com/user-attachments/assets/5334963a-4d90-404d-acba-5a75c4d10ae0">  
+描述的文本明显更短，并且无法仿图。  
