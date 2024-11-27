@@ -17,4 +17,4 @@
 
 ChatGPT：  
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/5334963a-4d90-404d-acba-5a75c4d10ae0">  
-描述的文本明显更短，并且无法仿图。  
+描述的文本明显更短，并且无法仿图。（你可以在DeTox中找到完整描述！）  
