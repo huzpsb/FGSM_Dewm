@@ -18,3 +18,6 @@
 ChatGPT：  
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/5334963a-4d90-404d-acba-5a75c4d10ae0">  
 描述的文本明显更短，并且无法仿图。（你可以在DeTox中找到完整描述！）  
+SD：  
+<img width="1275" alt="image" src="https://github.com/user-attachments/assets/f19a0487-0b89-4bd0-900a-b4fbe5edca61">  
+描述的文本更少，识别水印Tag错误。（你可以在DeTox中找到完整描述！）  
