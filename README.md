@@ -4,7 +4,9 @@
 是 [DeWm](https://github.com/huzpsb/DeWm) 的反向工作。  
 出于某些考量，代码暂不开源，只是占个坑。（写完了）  
 
-演示图片：  
+原始图片：  
+![or](https://github.com/user-attachments/assets/cf5648c0-f6c1-472c-a5f6-020ef11c75f5)  
+水印演示图片：  
 ![done](https://github.com/user-attachments/assets/2a9be155-7b38-41a8-9631-cba64be3b575)  
 高阈值下：  
 ![mask](https://github.com/user-attachments/assets/52f440cd-f077-4021-b4b2-a4286322b130)  
