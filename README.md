@@ -3,6 +3,11 @@
 ImageShield  
 保护图像资产不被AI用于训练。
 
+## h2g
+<img width="186" alt="image" src="https://github.com/user-attachments/assets/f88c8389-547f-4650-95bf-811d3659334f">
+
+
+
 ## 原理
 
 既然你看到了这篇文章，我就不绕弯子了...   
